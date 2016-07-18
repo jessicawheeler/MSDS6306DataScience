@@ -65,7 +65,7 @@ Exploratory Analysis of time Series: MCD
     lines(volest2,type="l",col="red")
     lines(volest3, type = "l", col="blue")
 
-![](JWheelerVolatilityMCD_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](MSDS6306DataScience/unnamed-chunk-3-1.png)
 JWheelerVolatilityMCD_files/figure-markdown_strict/unnamed-chunk-3-1.png
 MSDS6306DataScience/unnamed-chunk-3-1.png
 
