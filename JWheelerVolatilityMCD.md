@@ -65,7 +65,7 @@ Exploratory Analysis of time Series: MCD
     lines(volest2,type="l",col="red")
     lines(volest3, type = "l", col="blue")
 
-![](MSDS6306DataScience/unnamed-chunk-3-1.png)
+![](https://github.com/jessicawheeler/MSDS6306DataScience/blob/master/unnamed-chunk-3-1.png)
 
 
 > The graph above shows the volatility estimates when the decay factors
