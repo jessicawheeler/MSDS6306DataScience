@@ -66,8 +66,7 @@ Exploratory Analysis of time Series: MCD
     lines(volest3, type = "l", col="blue")
 
 ![](MSDS6306DataScience/unnamed-chunk-3-1.png)
-JWheelerVolatilityMCD_files/figure-markdown_strict/unnamed-chunk-3-1.png
-MSDS6306DataScience/unnamed-chunk-3-1.png
+
 
 > The graph above shows the volatility estimates when the decay factors
 > = 10 (in black), 30 (in red), and 100 (in blue) in a continous
